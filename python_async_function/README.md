@@ -7,3 +7,9 @@
 * Exécuter plusieurs tâches en simultané pour gagner en performance.
 * Différencier les tâches bloquantes des tâches asynchrones.
 * utiliser "random.uniform" pour simuler un délai d'attente réels
+
+tips : Async = Prévient (je peux attendre)
+
+Wait = Chrono (je patiente)
+
+Random = Hasard (le délai change)
