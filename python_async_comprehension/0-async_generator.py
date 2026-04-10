@@ -9,7 +9,7 @@ import random
 from typing import AsyncGenerator
 
 
-async def async_generator() -> AsyncGenerator[None, None]:
+async def async_generator() -> AsyncGenerator[float, None]:
     """
     genere 10 fois un nombre entre 0 et 10
     avec un delais de 1 seconde
