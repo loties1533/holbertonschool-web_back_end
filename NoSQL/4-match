@@ -1,0 +1,2 @@
+// recherche tt les documents au nom de "Holberton school" dans la collection school
+db.school.find({ "name": "Holberton school" })
