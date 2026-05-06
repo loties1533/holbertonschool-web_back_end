@@ -1,0 +1,1 @@
+Promesses ES6
